@@ -7,8 +7,8 @@ app.use(cors());
 app.use(express.json());
 
 // 填写你自己的小程序APPID和APPSECRET
-const APPID = '';
-const SECRET = '';
+const APPID = 'wxbd9af34658f047b7';
+const SECRET = 'b56ebca5ee61762f2cec337cec2fc902';
 
 // 角色白名单 填入真实openid
 const ROLE = {
